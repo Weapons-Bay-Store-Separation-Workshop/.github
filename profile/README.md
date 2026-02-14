@@ -22,6 +22,4 @@ There are two WGs, each studying a unique case, proceeding in parallel:
   * *Goal*: Gaining improved insights into cavity flow physics, with specific attention to state-of-the-art CFD codes tailored for detailed resolution 
   * *Modelling approaches*: up to DNS
 
-
-![WG1](https://github.com/Weapons-Bay-Store-Separation-Workshop/.github/images/WG1.JPG)
-![WG1](https://github.com/Weapons-Bay-Store-Separation-Workshop/.github/images/WG2.png)
+<img src="https://github.com/Weapons-Bay-Store-Separation-Workshop/.github/blob/main/images/WG1.JPG" alt="WG1" width="41%"> &nbsp; &nbsp; <img src="https://github.com/Weapons-Bay-Store-Separation-Workshop/.github/blob/main/images/WG2.png" alt="WG2" width="48%">
