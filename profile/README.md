@@ -1,4 +1,6 @@
 # AIAA Weapons Bay Store Separation Workshop
+Scheduled to be held on 3-4 June 2028, in San Diego, CA, USA
+In conjunction with the AIAA AVIATION Forum 2028
 
 ## Overview:
 * The Weapons Bay Store Separation Workshop (WBS²W) brings together researchers and engineers from government, industry, and academia to address challenges in CFD-based prediction of aerodynamic and aeroacoustic phenomena affecting store separation from internal weapons bays. 
