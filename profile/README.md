@@ -14,10 +14,10 @@
 **Sponsored by the AIAA Applied Aerodynamics Technical Committee (APATC)**
 
 ## Organizing Committee:
-* Dr. David Bacci (Senior Research Fellow, University of Oxford/Cranfield Defence and Security)
-* Dr. Andreas Goerttler (Research Associate, DLR - German Aerospace Center)
-* Prof. Alistair J. Saddington (Professor, Cranfield University, Defence Academy of the United Kingdom)
-* Dr. Hadar Ben-Gida (Research Fellow, Technion Israel Institute of Technology)
+* **Dr. David Bacci** (Senior Research Fellow, University of Oxford/Cranfield Defence and Security)
+* **Dr. Andreas Goerttler** (Research Associate, DLR - German Aerospace Center)
+* **Prof. Alistair J. Saddington** (Professor, Cranfield University, Defence Academy of the United Kingdom)
+* **Dr. Hadar Ben-Gida** (Research Fellow, Technion Israel Institute of Technology)
 
 ## Working Groups (WGs)
 There are two WGs, each studying a unique case, proceeding in parallel:
