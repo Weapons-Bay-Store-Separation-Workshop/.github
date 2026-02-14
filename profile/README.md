@@ -23,5 +23,5 @@ There are two WGs, each studying a unique case, proceeding in parallel:
   * *Modelling approaches*: up to DNS
 
 
-![WG1](images/WG1.JPG)
-![WG1](images/WG2.png)
+![WG1](https://github.com/Weapons-Bay-Store-Separation-Workshop/.github/images/WG1.JPG)
+![WG1](https://github.com/Weapons-Bay-Store-Separation-Workshop/.github/images/WG2.png)
