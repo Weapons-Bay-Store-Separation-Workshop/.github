@@ -21,3 +21,7 @@ There are two WGs, each studying a unique case, proceeding in parallel:
   * *Case study*: DLR’s Generic Cavity model
   * *Goal*: Gaining improved insights into cavity flow physics, with specific attention to state-of-the-art CFD codes tailored for detailed resolution 
   * *Modelling approaches*: up to DNS
+
+
+![WG1](images/WG1.JPG)
+![WG1](images/WG2.png)
