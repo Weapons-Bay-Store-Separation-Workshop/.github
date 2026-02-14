@@ -25,7 +25,7 @@ There are two WGs, each studying a unique case, proceeding in parallel:
 
 
 <p align="center">
-  <img src="https://github.com/Weapons-Bay-Store-Separation-Workshop/.github/blob/main/images/WG1.JPG" style="width:41%">
+  <img src="https://github.com/Weapons-Bay-Store-Separation-Workshop/.github/blob/main/images/WG1.JPG" style="width:45%">
   &nbsp;&nbsp;
-  <img src="https://github.com/Weapons-Bay-Store-Separation-Workshop/.github/blob/main/images/WG2.png" style="width:47%">
+  <img src="https://github.com/Weapons-Bay-Store-Separation-Workshop/.github/blob/main/images/WG2.png" style="width:45%">
 </p>
