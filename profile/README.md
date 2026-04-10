@@ -43,13 +43,17 @@ There are two WGs, each studying a unique case, proceeding in parallel:
 
 
 
-| Participant ID | Organization                          | Name                      | Solver(s)                 | Grid(s)                   | Working Group
-|:------------:| --------------------------------------- | ------------------------- | ------------------------- | ------------------------- | ------------------------- 
-| 0001         | University of Oxford                    | David Bacci               | FLUENT                    | Unstructured grids         | WG1, WG2
-| 0002         | Technion Israel Institute of Technology | Hadar Ben-Gida      | PowerFLOW                 | Cartesian grids            | WG1, WG2
-| 0003         | UVA Dynamics Inc                        | Ryan Whitside, Edward Farnfield, Alex Li  | StarCCM+  |                           | WG1
-| 0004         | ONERA - French Aerospace Lab            | Baptiste Isnard           | SoNICS (Safran-ONERA solver) |                        | WG1, WG2
-| 0005         | Anduril                                 | Jonathan Dudley           |                           |                           | WG1, WG2
-| 0006         | Aerosme Consulting                      | Bruce Jolly               | Kestrel                   |                           | WG1, WG2
-| 0007         | Airbus Defence and Space GmbH           | Florian Mayer, Stefan Donauer, Markus Siebenhaar, Edoardo Grande, Hugo Bento | PowerFLOW, ProLB, TAU |                | WG1; WG2
-| 0008         | Leonardo                                | David Kooijman, Fabrizio Di Donfrancesco | CFD++      |                           | WG1, WG2
+| Participant ID | Organization                          | Name                      | Solver(s)                 | Working Group
+|:------------:| --------------------------------------- | ------------------------- | ------------------------- | ------------------------- 
+| 0001         | University of Oxford                    | David Bacci               | FLUENT                    | WG1, WG2
+| 0002         | Technion Israel Institute of Technology | Hadar Ben-Gida            | PowerFLOW                 | WG1, WG2
+| 0003         | UVA Dynamics Inc                        | Ryan Whitside, Edward Farnfield, Alex Li | StarCCM+  | WG1
+| 0004         | ONERA - French Aerospace Lab            | Baptiste Isnard           | SoNICS (Safran-ONERA solver) | WG1, WG2
+| 0005         | Anduril                                 | Jonathan Dudley           | StarCCM+                 | WG1, WG2
+| 0006         | Aerosme Consulting                      | Bruce Jolly               | Kestrel                   | WG1, WG2
+| 0007         | Airbus Defence and Space GmbH           | Florian Mayer, Stefan Donauer, Markus Siebenhaar, Edoardo Grande, Hugo Bento | PowerFLOW, ProLB, TAU | WG1, WG2
+| 0008         | Leonardo                                | David Kooijman, Fabrizio Di Donfrancesco | CFD++      | WG1, WG2
+| 0009         | Università degli Studi di Firenze       | Lorenzo Pinelli, Marta Poli | OpenFOAM                | WG1, WG2
+| 0010         | Siemens                                 | Chris Nelson              | StarCCM+                 | WG1, WG2
+| 0011         | VOLCANO Platforms                       | Cetin Kiris, Jordan Angel | VOLCANO ScaLES            | WG1, WG2
+| 0012         | CADENCE                                 | Michael Malone, Jean Charles Bonaccorsi, Alexis Talbot | Fidelity CharLES | WG1, WG2
