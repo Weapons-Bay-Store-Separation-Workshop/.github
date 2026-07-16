@@ -57,3 +57,4 @@ There are two WGs, each studying a unique case, proceeding in parallel:
 | 0010         | Siemens                                 | Chris Nelson              | StarCCM+                 | WG1, WG2
 | 0011         | VOLCANO Platforms                       | Cetin Kiris, Jordan Angel | VOLCANO ScaLES            | WG1, WG2
 | 0012         | CADENCE                                 | Michael Malone, Jean Charles Bonaccorsi, Alexis Talbot | Fidelity CharLES | WG1, WG2
+| 0013         | DLR - German Aerospace Center           | Andreas Goerttler, Francesco Tocci, Michael Werner  | TAU, CODA | WG2
